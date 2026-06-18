@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xJAHbE+rOM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wagui\\Desktop\\WorkSpace\\Projects\\BankingApiVerity\\BankingApiVerity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wagui\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0\\microsoft.entityframeworkcore.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.0\\microsoft.entityframeworkcore.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.0\\microsoft.entityframeworkcore.analyzers.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.0\\microsoft.entityframeworkcore.inmemory.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.0\\swashbuckle.aspnetcore.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.0\\swashbuckle.aspnetcore.swagger.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.0\\swashbuckle.aspnetcore.swaggergen.10.0.0.nupkg.sha512",
+    "C:\\Users\\wagui\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.0\\swashbuckle.aspnetcore.swaggerui.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
