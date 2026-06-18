@@ -1,4 +1,4 @@
-# BankingApiVerity - Projeto de estudo para entrevista .NET Backend
+# BankingApiVerity - Projeto em .NET Backend
 
 API simples simulando contexto de banco digital: contas, depósito, transferência e extrato.
 
@@ -98,8 +98,6 @@ GET /api/accounts/{accountId}/statement
 
 > Esse projeto simula uma API financeira em .NET. A camada Controller recebe a requisição, chama o Service, que concentra a regra de negócio, e o Repository encapsula o acesso ao banco via Entity Framework. A injeção de dependência é configurada no Program.cs. Em operações financeiras, como transferência, é importante garantir consistência de dados, evitar duplicidade usando idempotency key e tratar erros de forma centralizada.
 
-## Pontos para estudar no código
-
 ### Program.cs
 
 Onde registramos dependências:
@@ -137,7 +135,7 @@ _context.Transactions
 
 ## Observação sobre Transaction
 
-O projeto usa banco em memória para facilitar o estudo. Em SQL Server/PostgreSQL real, a transferência deveria usar transação:
+O projeto usa banco em memória. Em SQL Server/PostgreSQL real, a transferência deveria usar transação:
 
 ```csharp
 await using var transaction = await _context.Database.BeginTransactionAsync();
